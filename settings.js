@@ -30,7 +30,7 @@ global.ownername = 'Dope Janiya ' //Owner Name
 global.botname = ' ☬DOPE ALZA' //Bot Name
 
 global.button = '🤭Facebook Gaming sacho📍' //Costomize A Button Name In Alive Message
-global.btnurl = 'https://www.facebook.com/gamingsacho///Change Your Button's URL
+global.btnurl = 'https://www.facebook.com/gamingsacho//Change Your Button's URL
 
 global.region = 'Sri Lanka, Western, Colombo' //Country Region
 
